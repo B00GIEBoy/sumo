@@ -109,3 +109,4 @@ License
 SUMO is licensed under the [Eclipse Public License Version 2](https://eclipse.org/legal/epl-v20.html).
 The licenses of the different libraries and supplementary code information are in the
 subdirectories and in the [Documentation](https://sumo.dlr.de/docs/Libraries_Licenses.html).
+
